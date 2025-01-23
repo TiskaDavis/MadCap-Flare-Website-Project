@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="reset"
+    StartPageLayout="false"
+    PageType="title"
+    PageNumberFormat="lower-roman"
+    PageLayout="/Content/Resources/PageLayouts/Frontmatter.flpgl"
+    Link="/Content/E-Frontmatter-Topics/Title.htm"
+    BreakType="pageLayout"></TocEntry>
+  <TocEntry
+    Title="Schedule an Event"
+    Link="/Content/A-Schedule an Event/Schedule an Event.htm">
+    <TocEntry
+      Title="What is a Calendar Event?"
+      Link="/Content/A-Schedule an Event/What is a Calendar Event.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How to Schedule an Event"
+      Link="/Content/A-Schedule an Event/How to Schedule an Event.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B-Set Up Recurring Event/Set Up Recurring Event.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Set Up Recurring Event/What is a Recurring Event.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B-Set Up Recurring Event/How to Set Up a Recurring Event.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C-Change Calendar View/Change Calendar View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Change Calendar View/What is the Calendar View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C-Change Calendar View/How to Change the Calendar View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Set Reminder Notification"
+    Link="/Content/D-Set Reminder Notification/Set Reminder Notification.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D-Set Reminder Notification/What is a Reminder Notification.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/D-Set Reminder Notification/How to Set a Reminder Notification.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
